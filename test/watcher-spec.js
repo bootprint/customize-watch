@@ -61,15 +61,12 @@ describe('the watcher', function () {
     var results = []
     var actions = [
       function modifyFileFromPartials1 () {
-        console.log('Writing')
         qfs.write('test-tmp/testPartials1/eins.hbs', 'abc')
       },
       function modifyFileFromPartials2 () {
-        console.log('Writing2')
         qfs.write('test-tmp/testPartials2/zwei.hbs', 'abc')
       },
       function overrideFileInPartials2 () {
-        console.log('Writing3')
         qfs.write('test-tmp/testPartials2/eins.hbs', 'cde')
       }
     ]
