@@ -1,5 +1,7 @@
 # customize-watch 
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/bootprint/customize-watch.svg)](https://greenkeeper.io/)
+
 [![NPM version](https://badge.fury.io/js/customize-watch.svg)](http://badge.fury.io/js/customize-watch)
 [![Travis Build Status](https://travis-ci.org/bootprint/customize-watch.svg?branch=master)](https://travis-ci.org/bootprint/customize-watch)
 [![Coverage Status](https://img.shields.io/coveralls/bootprint/customize-watch.svg)](https://coveralls.io/r/bootprint/customize-watch)
